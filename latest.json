@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.0.2",
-    "apkUrl":  "https://raw.githubusercontent.com/Hijazy-3bbudy/DWM_updates/main/apk/adw-1.0.2-3.apk",
+    "versionCode":  5,
+    "versionName":  "1.0.4",
+    "apkUrl":  "https://raw.githubusercontent.com/Hijazy-3bbudy/DWM_updates/main/apk/adw-1.0.4-5.apk",
     "zorunlu":  false,
-    "notlar":  "Beyaz (Gündüz/Gece) tema ve sade arayüz; açıklama metinleri kaldırıldı. WhatsApp formu kâğıt deftere benzetildi (A4). Özet ekranı sadeleştirildi."
+    "notlar":  "Offline katalog + sayacsiz makineler"
 }

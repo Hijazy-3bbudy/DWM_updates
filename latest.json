@@ -1,7 +1,7 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.0.6",
-    "apkUrl":  "https://raw.githubusercontent.com/Hijazy-3bbudy/DWM_updates/main/apk/adw-1.0.6-7.apk",
+    "versionCode":  8,
+    "versionName":  "1.0.7",
+    "apkUrl":  "https://raw.githubusercontent.com/Hijazy-3bbudy/DWM_updates/main/apk/adw-1.0.7-8.apk",
     "zorunlu":  false,
-    "notlar":  "Kategori artik usta akisinda yok (9-\u003e8 adim); kategoriyi sef onayda secip her parcaya ayri kategori atiyor. Boylece tek mudahalede hem mekanik hem elektrik isi tek kayitta tutulabiliyor."
+    "notlar":  "Saat ekrani: baslama/bitis tarihi eklendi (cok gunlu bakim - parca beklemesi). Toplam sureye dokun -\u003e dk/saat cevirir. Cok gunluyse +N GUN rozeti."
 }

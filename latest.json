@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.0.7",
-    "apkUrl":  "https://raw.githubusercontent.com/Hijazy-3bbudy/DWM_updates/main/apk/adw-1.0.7-8.apk",
+    "versionCode":  10,
+    "versionName":  "1.0.9",
+    "apkUrl":  "https://raw.githubusercontent.com/Hijazy-3bbudy/DWM_updates/main/apk/adw-1.0.9-10.apk",
     "zorunlu":  false,
-    "notlar":  "Saat ekrani: baslama/bitis tarihi eklendi (cok gunlu bakim - parca beklemesi). Toplam sureye dokun -\u003e dk/saat cevirir. Cok gunluyse +N GUN rozeti."
+    "notlar":  "Eksik Malzeme Talebi: usta alt menudeki Malzeme sekmesinden eksik malzemeleri secip sefe gonderir (internetsiz de calisir); sef Talepler sekmesinden gorup Temin Edildi isaretler. Malzeme kartlarinda makine adi rozetleri. Katalog 434 yeni parca (EPIROC CSD140 + TRAKTOR gruplari dahil, toplam 2428)."
 }
